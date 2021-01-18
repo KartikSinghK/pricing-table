@@ -234,7 +234,7 @@ body {
   margin-top: 1.5rem;
   line-height: 1.5rem;
 }
-@media (max-width: 826px) {
+@media (max-width: 842px) {
   .card-holder {
     flex-direction: column;
   }
